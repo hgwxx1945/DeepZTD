@@ -1,9 +1,8 @@
 # DeepZTD
-This is the repo for the EGU24 conference
+#Update
 
-Machine learning for atmospheric delay correction in geodesy:
-An advanced troposphere delay model based on Gaussian mixed long short-term memory network
-https://meetingorganizer.copernicus.org/EGU24/EGU24-9543.html
+This is the repo for "An advanced tropospheric delay model based on Gaussian Mixed Long Short-Term Memory Network":
+
 
 We have opened our results and GNSS station details for evaluation, we will open our code soon.
 
