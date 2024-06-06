@@ -3,8 +3,7 @@
 
 This is the repo for "An advanced tropospheric delay model based on Gaussian Mixed Long Short-Term Memory Network":
 
-
-We have opened our results and GNSS station details for evaluation, we will open our code soon.
+We will open our results and code soon.
 
 ![alt text](https://github.com/hgwxx1945/DeepZTD/blob/main/8errors.png)
 
